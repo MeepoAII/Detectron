@@ -22,3 +22,9 @@ detectron/datasets/data/*
 
 # Generated C files
 detectron/utils/cython_*.c
+.idea/.gitignore
+.idea/Detectron.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
