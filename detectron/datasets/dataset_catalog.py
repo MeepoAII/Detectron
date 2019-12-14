@@ -201,6 +201,18 @@ _DATASETS = {
             _DATA_DIR + '/VOC2012/annotations/voc_2012_val.json',
         _DEVKIT_DIR:
             _DATA_DIR + '/VOC2012/VOCdevkit2012'
+    },
+    'my_train_4869': {
+        _IM_DIR:
+            '/media/meepo/c2cb98a3-f300-42f6-860c-4acd5dc194a4/meepo/data/images/try-6/start/train/images',
+        _ANN_FN:
+            '/media/meepo/c2cb98a3-f300-42f6-860c-4acd5dc194a4/meepo/data/images/try-6/start/train/train.json'
+    },
+    'my_val_4869': {
+        _IM_DIR:
+            '/media/meepo/c2cb98a3-f300-42f6-860c-4acd5dc194a4/meepo/data/images/try-6/start/validate/images',
+        _ANN_FN:
+            '/media/meepo/c2cb98a3-f300-42f6-860c-4acd5dc194a4/meepo/data/images/try-6/start/validate/val.json'
     }
 }
 
